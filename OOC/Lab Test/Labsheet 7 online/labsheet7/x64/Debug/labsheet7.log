@@ -1,0 +1,92 @@
+﻿  distance.cpp
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(9,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'distance.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(9,12): warning C4183: 'Distance': missing return type; assumed to be a member function returning 'int'
+  (compiling source file 'distance.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(10,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'distance.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(10,29): warning C4183: 'Distance': missing return type; assumed to be a member function returning 'int'
+  (compiling source file 'distance.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(13,3): error C2523: 'distance::~Distance': destructor tag mismatch
+  (compiling source file 'distance.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.cpp(6,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.cpp(11,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.cpp(31,12): error C2523: 'distance::~Distance': destructor tag mismatch
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.cpp(33,1): error C2143: syntax error: missing ';' before '}'
+  labsheet7.cpp
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(9,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'labsheet7.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(9,12): warning C4183: 'Distance': missing return type; assumed to be a member function returning 'int'
+  (compiling source file 'labsheet7.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(10,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'labsheet7.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(10,29): warning C4183: 'Distance': missing return type; assumed to be a member function returning 'int'
+  (compiling source file 'labsheet7.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(13,3): error C2523: 'distance::~Distance': destructor tag mismatch
+  (compiling source file 'labsheet7.cpp')
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(8,2): error C2872: 'distance': ambiguous symbol
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(2,7):
+  could be 'distance'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1450,45):
+  or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(12,2): error C2872: 'distance': ambiguous symbol
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(2,7):
+  could be 'distance'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1450,45):
+  or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(12,18): error C2661: 'distance::distance': no overloaded function takes 2 arguments
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(12,18):
+  while trying to match the argument list '(int, double)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(16,2): error C2872: 'distance': ambiguous symbol
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(2,7):
+  could be 'distance'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1450,45):
+  or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(16,24): error C2872: 'distance': ambiguous symbol
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(2,7):
+  could be 'distance'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1450,45):
+  or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(19,2): error C2872: 'distance': ambiguous symbol
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(2,7):
+  could be 'distance'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1450,45):
+  or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(19,24): error C2872: 'distance': ambiguous symbol
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(2,7):
+  could be 'distance'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1450,45):
+  or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(22,2): error C2872: 'distance': ambiguous symbol
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(2,7):
+  could be 'distance'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1450,45):
+  or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(22,11): error C2040: 'dist1': 'distance' differs in levels of indirection from 'distance *'
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(23,2): error C2872: 'distance': ambiguous symbol
+  C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\distance.h(2,7):
+  could be 'distance'
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\xutility(1450,45):
+  or       'iterator_traits<_Iter>::difference_type std::distance(_InIt,_InIt)'
+  
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(23,11): error C2040: 'dist2': 'distance' differs in levels of indirection from 'distance *'
+C:\Users\Tharindi\Desktop\SLIIT ( OOC C+)\labsheet3\labsheet7\labsheet7\labsheet7.cpp(24,1): error C2143: syntax error: missing ';' before '}'
+  Generating Code...

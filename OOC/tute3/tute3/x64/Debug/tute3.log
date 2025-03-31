@@ -1,0 +1,3 @@
+﻿  tute3.cpp
+C:\Users\it23344556\Desktop\ooc tute\tute3\tute3\tute3.cpp(26,6): error C2084: function 'void input(int &,int &)' already has a body
+C:\Users\it23344556\Desktop\ooc tute\tute3\tute3\tute3.cpp(21,6): message : see previous definition of 'input'

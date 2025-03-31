@@ -1,0 +1,94 @@
+/* Navigation Bar */
+nav {
+    background-color: #333; /* Dark background color */
+    padding: 10px 20px; /* Add padding around the navigation */
+    display: flex; /* Use flexbox layout */
+    justify-content: space-between; /* Align items horizontally */
+    align-items: center; /* Align items vertically */
+  }
+  
+  /* Logo */
+  .logo a {
+    color: #fff; /* White color for the logo text */
+    font-size: 24px; /* Font size of the logo */
+    text-decoration: none; /* Remove underline from the logo */
+  }
+  
+  /* Menu */
+  .menu {
+    list-style-type: none; /* Remove default list styles */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu li {
+    display: inline-block; /* Display menu items horizontally */
+    margin-right: 20px; /* Add some spacing between menu items */
+  }
+  
+  .menu li a {
+    color: #fff; /* White color for menu text */
+    text-decoration: none; /* Remove underline from menu links */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  .menu li a:hover {
+    color: #ffcc00; /* Change color on hover */
+  }
+  
+  /* Search */
+  .search input[type="text"] {
+    padding: 8px; /* Add padding to input field */
+    border: none; /* Remove border */
+    border-radius: 20px; /* Rounded corners */
+  }
+  
+  .search button {
+    padding: 8px 15px; /* Add padding to button */
+    border: none; /* Remove border */
+    background-color: #ffcc00; /* Yellow background color */
+    color: #333; /* Dark text color */
+    border-radius: 20px; /* Rounded corners */
+    cursor: pointer; /* Change cursor on hover */
+  }
+  
+  .search button:hover {
+    background-color: #ffd633; /* Lighter yellow on hover */
+  }
+  
+  /* Account */
+  .account {
+    color: #fff; /* White color for account text */
+  }
+
+  .account2{
+    flex-wrap: wrap;
+    margin-top: 5px;
+    margin-right: 5px;
+  }
+  
+  .account a {
+    color: #fff; /* White color for account links */
+    text-decoration: none; /* Remove underline from account links */
+    margin-right: 10px; /* Add some spacing between account links */
+  }
+  
+  .account a:hover {
+    color: #ffcc00; /* Change color on hover */
+  }
+  
+  /* User and Cart Icons */
+  .fa-user-large,
+  .fa-cart-shopping {
+    color: #fff; /* White color for icons */
+    font-size: 20px; /* Icon size */
+    margin-right: 5px; /* Add some spacing */
+    margin-left: 110px;
+  }
+  
+  .account .userna{
+    margin-right: 10px;
+    margin-left: 180px;
+    margin-top: 5px;
+    
+  }

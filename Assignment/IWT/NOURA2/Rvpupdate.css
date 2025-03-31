@@ -1,0 +1,35 @@
+/* RVPreview.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.inputbox {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.inputbox input[type="text"],
+.inputbox input[type="submit"] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.inputbox input[type="submit"] {
+    background-color: #603ea5;
+    color: #fff;
+    cursor: pointer;
+}
+
+.inputbox input[type="submit"]:hover {
+    background-color: #1e36ce;
+}

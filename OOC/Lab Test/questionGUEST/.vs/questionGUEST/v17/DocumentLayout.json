@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74028E9-F90A-4F44-AF78-CA9AACAC2CCA}|questionGUEST\\questionGUEST.vcxproj|C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\guest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A74028E9-F90A-4F44-AF78-CA9AACAC2CCA}|questionGUEST\\questionGUEST.vcxproj|solutionrelative:questionGUEST\\guest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74028E9-F90A-4F44-AF78-CA9AACAC2CCA}|questionGUEST\\questionGUEST.vcxproj|C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\guest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A74028E9-F90A-4F44-AF78-CA9AACAC2CCA}|questionGUEST\\questionGUEST.vcxproj|solutionrelative:questionGUEST\\guest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74028E9-F90A-4F44-AF78-CA9AACAC2CCA}|questionGUEST\\questionGUEST.vcxproj|C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\questionGUEST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A74028E9-F90A-4F44-AF78-CA9AACAC2CCA}|questionGUEST\\questionGUEST.vcxproj|solutionrelative:questionGUEST\\questionGUEST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "guest.cpp",
+              "DocumentMoniker": "C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\guest.cpp",
+              "RelativeDocumentMoniker": "questionGUEST\\guest.cpp",
+              "ToolTip": "C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\guest.cpp",
+              "RelativeToolTip": "questionGUEST\\guest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T19:25:48.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "guest.h",
+              "DocumentMoniker": "C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\guest.h",
+              "RelativeDocumentMoniker": "questionGUEST\\guest.h",
+              "ToolTip": "C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\guest.h",
+              "RelativeToolTip": "questionGUEST\\guest.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-22T19:05:53.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "questionGUEST.cpp",
+              "DocumentMoniker": "C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\questionGUEST.cpp",
+              "RelativeDocumentMoniker": "questionGUEST\\questionGUEST.cpp",
+              "ToolTip": "C:\\Users\\Tharindi\\Desktop\\SLIIT ( OOC C\u002B)\\labsheet3\\questionGUEST\\questionGUEST\\questionGUEST.cpp",
+              "RelativeToolTip": "questionGUEST\\questionGUEST.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-22T19:03:15.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

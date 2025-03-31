@@ -1,0 +1,310 @@
+/* Add member Form */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+
+/* Define custom color variables */
+:root{
+   --blue:#3498db;
+   --dark-blue:#2980b9;
+   --red:#e74c3c;
+   --dark-red:#c0392b;
+   --black:#333;
+   --white:#fff;
+   --light-bg:#eee;
+   --box-shadow:0 5px 10px rgba(0,0,0,.1);
+}
+
+/* Reset default styles and set font */
+*{
+   font-family: 'Poppins', sans-serif;
+   margin:0; padding:0;
+   box-sizing: border-box;
+   outline: none; border:none;
+   text-decoration: none;
+}
+
+/* Style for the form container */
+.form-container{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding:20px;
+  padding-bottom: 60px;
+  background: #eee;
+}
+
+
+/* Style for the form */
+.form-container form{
+  padding:20px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0,0,0,.1);
+  background: #fff;
+  text-align: center;
+  width: 500px;
+}
+
+/* Style for the form header */
+.form-container form h3{
+  font-size: 30px;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  color:#333;
+}
+
+
+/* Style for form inputs and select */
+.form-container form input,
+.form-container form select{
+  width: 95%;
+  padding:10px 15px;
+  font-size: 17px;
+  margin:8px 0;
+  background: #eee;
+  border-radius: 5px;
+}
+
+/* Style for form select options */
+.form-container form select option{
+  background: #fff;
+}
+
+/* Style for form button */
+.form-container form .form-btn{
+  background: #fbd0d9;
+  color:crimson;
+  text-transform: capitalize;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+/* Hover style for form button */
+
+.form-container form .form-btn:hover{
+  background: crimson;
+  color:#fff;
+}
+
+/* Style for form paragraph */
+.form-container form p{
+  margin-top: 10px;
+  font-size: 20px;
+  color:#333;
+}
+
+
+/* Style for form link */
+.form-container form p a{
+  color:crimson;
+}
+
+/* Style for error message */
+.form-container form .error-msg{
+  margin:10px 0;
+  display: block;
+  background: crimson;
+  color:#fff;
+  border-radius: 5px;
+  font-size: 20px;
+  padding:10px;
+}
+
+
+/* Style for radio buttons */
+.rdio{
+  align-items: left;
+  justify-content: left;
+  display: inline-block;
+  display: flex;
+}
+
+ 
+
+
+/*Update staff Member Form*/
+
+
+/* Style for container */
+.container{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding:20px;
+  padding-bottom: 60px;
+}
+
+/* Style for content */
+.container .content{
+  text-align: center;
+}
+
+/* Style for content heading */
+.container .content h3{
+  font-size: 30px;
+  color:#333;
+}
+
+
+/* Style for content heading span */
+.container .content h3 span{
+  background: crimson;
+  color:#fff;
+  border-radius: 5px;
+  padding:0 15px;
+}
+
+
+/* Style for content main heading */
+.container .content h1{
+  font-size: 50px;
+  color:#333;
+}
+
+/* Style for content main heading span */
+.container .content h1 span{
+  color:crimson;
+}
+
+/* Style for content paragraph */
+.container .content p{
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+/* Style for content button */
+.container .content .btn{
+  display: inline-block;
+  padding:10px 30px;
+  font-size: 20px;
+  background: #333;
+  color:#fff;
+  margin:0 5px;
+  text-transform: capitalize;
+}
+
+/* Hover style for content button */
+.container .content .btn:hover{
+  background: crimson;
+}
+
+/* Style for update profile section */
+.update-profile{
+  min-height: 100vh;
+  background-color: var(--light-bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding:20px;
+}
+
+/* Style for update profile form */
+.update-profile form{
+  padding:20px;
+  background-color: white;
+  box-shadow: var(--box-shadow);
+  text-align: center;
+  width: 700px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+/* Style for update profile image */
+.update-profile form img{
+  height: 200px;
+  width: 200p;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 5px;
+}
+
+
+/* Style for form flex layout */
+.update-profile form .flex{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+  gap:15px;
+}
+
+
+/* Style for form flex input box box */
+.update-profile form .flex .inputBox{
+  width: 49%;
+}
+
+.update-profile form .flex .inputBox span{
+  text-align: left;
+  display: block;
+  margin-top: 15px;
+  font-size: 17px;
+  color:var(--black);
+}
+
+.update-profile form .flex .inputBox .box{
+  width: 100%;
+  border-radius: 5px;
+  background-color: var(--light-bg);
+  padding:12px 14px;
+  font-size: 17px;
+  color:var(--black);
+  margin-top: 10px;
+}
+
+/* Media query for smaller screens */
+@media (max-width:650px){
+  .update-profile form .flex{
+     flex-wrap: wrap;
+     gap:0;
+  }
+  .update-profile form .flex .inputBox{
+     width: 100%;
+  }
+}
+
+/* General button style */
+.btn{
+  background-color: blue;
+}
+
+/* Hover style for general button */
+.btn:hover{
+  background-color: darkblue;
+}
+
+/* Style for general button */
+.btn{
+   width: 100%;
+   border-radius: 5px;
+   padding:10px 30px;
+   color: white;
+   display: block;
+   text-align: center;
+   cursor: pointer;
+   font-size: 20px;
+   margin-top: 10px;
+}
+
+/* Style for span */
+
+span{
+  width: 100%;
+  border-radius: 5px;
+  padding:12px 14px;
+  font-size: 17px;
+  color: black;
+  margin-top: 10px;
+  text-align: left;
+  margin-left: 10px;
+}
+
+/* Style for box*/
+h4.box{
+  width: 100%;
+  border-radius: 5px;
+  background-color: rgb(218, 218, 218);
+  padding:12px 14px;
+  font-size: 17px;
+  color:black;
+  margin-top: 10px;
+}

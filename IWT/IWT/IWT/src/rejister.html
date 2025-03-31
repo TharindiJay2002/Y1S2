@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+     <head>
+	   <!-- Add a title -->
+	   <title> My Shopping Cart </title>
+	   
+	   <!--add stylesheet-->
+	   <link rel="stylesheet" href="styles/Styles.css">
+       <!--add js file -->
+	   <script src="js/myscript.js">
+	   </script>
+	 </head>
+	 
+	 <body>
+	     <!-- add a logo  (b)-->
+	     <img src="images/cart1.png" alt="This is a image of Shopping Cart"  width='200px' height='200px' class="logo" >
+	 
+	 
+	     <!--add a header (c) -->
+	     <h1>Shopping Cart</h1>
+	
+	 
+	     <!-- add a sub-header (c) -->
+	     <h2>The Online shopping store</h2>
+	  
+	 
+	     <!-- add a horizontal line (d) -->
+	     <hr>
+	 
+	 
+         <!-- add a horizontal menue (e) -->
+	   <ul class="menu">
+	    <li class="menu"><a href="home.html"> Home </a></li>
+	    <li class="menu"><a href="news.html"> News </a></li>
+	    <li class="menu"><a href="contact.html"> Contact </a></li>
+	    <li class="menu"><a href="about.html">About </a></li> 
+	  </ul>
+	      <!-- add a form  -->
+	        <form onsubmit='checkpassword()'>
+			frist name :
+			<input type ="text" placeholder ="inset youe first name" >
+			<br>
+            Last name :
+			<input type ="text"placeholder ="inset youe first name">
+			<br>
+			Gender : <br>
+			<input type ="radio"> Male <br>
+			<input type ="radio"> Female <br>
+			Moblie Number :<br>
+	        <input type ="text" placeholder ="XXX XXXXXXX" required title ="10 digits" pattern="[0-9] {10}">
+			<br>
+			Email :
+			<br>
+			<input type="text" placeholder= "abc@sliit.lk">	
+			<br>
+			address:<br>
+			<textarea rows="9" cols="50" placeholder= "insert your address" ></textarea>
+			<br>
+			DOB:
+			<input type="data" min="1990-01-01" max="2005-12-31"><br>
+			Password:<br>
+			<input type="password">
+			<br>
+			Re-Password:<br>
+			<input type="password">
+			<br>
+			<input type="checkbox" onclick="enableButton">Accept policy and teams <br>
+			Submit : <br>
+	        <input type="submit" value="submit" disabled id="subitBtn">
+			<br>
+	 <!-- add a horix]zontal line (d) -->
+	 <hr>
+	 
+	 
+	 <!-- add a footer (g) -->
+	 <footer width="100%">
+	       <p> Auther Name : Tharindi Jayawickrama</p>
+		   <p> <a href="https://courseweb.sliit.lk/user/view.php?id=27019&course=3915"> Visit Our Course </a></p>
+	 </footer>
+
+	 
+	 </body>
+
+</html>
